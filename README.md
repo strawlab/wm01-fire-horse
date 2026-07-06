@@ -80,7 +80,7 @@ AI assistants
 Exercises are released daily. They should be completed on the same day and
 submitted before the deadline.
 
-| Exercise    | Due date (at 23:59) |
+| Exercise    | Due date (at 23:55) |
 | ----------- | ------------------- |
 | exercise-01 | 2026-07-06          |
 | exercise-02 | 2026-07-07          |
